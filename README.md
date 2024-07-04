@@ -1,5 +1,5 @@
-## Machine_Learning_Projects
-### Project Description: Stock Price Prediction Using LSTM and Streamlit
+
+## Stock Price Prediction Using LSTM and Streamlit
 
 #### Objective
 The goal of this project is to develop a model for predicting stock prices using Long Short-Term Memory (LSTM) neural networks. The project will enable users to input a ticker symbol and predict the stock's future prices, while also providing visualizations for better understanding and analysis through a Streamlit web application.
